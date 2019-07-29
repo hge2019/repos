@@ -31,10 +31,6 @@ When pushing the first time, use:
 And later on use:
 `git push`
 
+Find your branch at https://github.com/hge2019/QAC_MTI_SYS/branches, and click **Create Pull Request** to create a code review. 
 
-# …or push an existing repository from the command line
-git remote add origin https://github.com/hge2019/QAC_MTI_SYS.git
-git push -u origin master
-
-# …or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+When it's properly reviewed by your coworker(s), click "Merge Pull Request" to merge the pull request to master.
