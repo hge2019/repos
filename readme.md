@@ -17,7 +17,7 @@ Create a file or revise an existing one. To add it to Git/GitHub, run:
 # Suggested Workflow
 Get the latest code from master
 `git fetch`
-`git checkout master`
+`git checkout origin/master`
 
 Create your own branch for the new feature
 `git checkout -b coolfeature`
