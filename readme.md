@@ -5,6 +5,13 @@ Run
 Clone the repository
 `git clone https://github.com/hge2019/QAC_MTI_SYS.git`
 
+Create/Modify a file
+Create a file or revise an existing one. To add it to Git/GitHub, run:
+`git add filename`
+`git commit -m 'The comment you want to see in Git history'`
+`git push`
+
+
 
 
 # …or create a new repository on the command line
