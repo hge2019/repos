@@ -14,7 +14,10 @@ Create a file or revise an existing one. To add it to Git/GitHub, run:
 `git push`
 
 
-# Suggested Workflow
+# Simple workflow
+Make changes on master branch, commit the changes and push to GitHub.
+
+# Suggested Professional Workflow
 Get the latest code from master
 `git fetch`
 `git checkout origin/master`
