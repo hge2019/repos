@@ -2,6 +2,8 @@
 Run
 `git config --global http.proxy http://fuhqlxscb.fpcusa.com:8880`
 
+`git config --global user.name 'Hongjun Ge'`
+
 Clone the repository
 `git clone https://github.com/hge2019/QAC_MTI_SYS.git`
 
