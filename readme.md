@@ -1,6 +1,6 @@
 # How to connect to GitHub from IntePlast?
 Run
-`git config --global http.proxy fuhqlxscb.fpcusa.com:8880`
+`git config --global http.proxy http://fuhqlxscb.fpcusa.com:8880`
 
 Clone the repository
 `git clone https://github.com/hge2019/QAC_MTI_SYS.git`
