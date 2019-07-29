@@ -14,15 +14,23 @@ Create a file or revise an existing one. To add it to Git/GitHub, run:
 `git push`
 
 
+# Suggested Workflow
+Get the latest code from master
+`git fetch`
+`git checkout master`
 
+Create your own branch for the new feature
+`git checkout -b coolfeature`
 
-# …or create a new repository on the command line
-echo "# QAC_MTI_SYS" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/hge2019/QAC_MTI_SYS.git
-git push -u origin master
+Make changes
+`git add your_cool_files.cs`
+`git commit -m "Save this cool feature"`
+
+When pushing the first time, use:
+`git push --set-upstream origin coolfeature`
+And later on use:
+`git push`
+
 
 # …or push an existing repository from the command line
 git remote add origin https://github.com/hge2019/QAC_MTI_SYS.git
