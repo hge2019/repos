@@ -1,4 +1,4 @@
-# How to connect to GitHub?
+# How to connect to GitHub from IntePlast?
 Run
 `git config --global http.proxy fuhqlxscb.fpcusa.com:8880`
 
